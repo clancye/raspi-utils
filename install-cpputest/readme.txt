@@ -1,4 +1,4 @@
-This script clones the repo from git into the current directory
+This script clones the repo from git into the home directory
 and runs the install commands found on the website:
 
 cpputest.github.io
